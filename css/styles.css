@@ -1,0 +1,71 @@
+*{
+	
+	margin:0;
+	padding:0;
+
+}
+
+body{
+	
+	background: linear-gradient(to right, #a8c0ff, #3f2b96); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+#header{
+	
+	margin-top:20px;
+	text-align:center;
+	color:#fff;
+}
+
+hr{
+
+  border:1px solid #2f3640;
+
+}
+
+
+h1, p, span, label{
+	
+	font-family:oxygen;
+	color:#fff;
+}
+
+label{
+	
+	font-size:20px;
+
+}
+
+h2{
+	
+	color:lightgreen;
+	font-family:oxygen;
+
+}
+
+.btnData{
+	
+	background:#00a8ff;
+	color:#fff;
+	font-family:oxygen;
+	border-radius:10px;
+	box-shadow: 2px 2px 2px #8c7ae6;
+
+}
+
+
+
+
+img{
+	
+	height:30px;
+	width:30px;
+
+
+}
+
+#header-content{
+
+}
